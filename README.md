@@ -41,12 +41,12 @@ BetterRaw includes, as in the original form, it's own formatting codes:
         </tr>
         <tr>
             <td>Left arrows</td>
-            <td>§gs</td>
+            <td>§la</td>
             <td>Makes left arrows which forms from 1 arrow to 3 arrows: > to >> to >>></td>
         </tr>
         <tr>
             <td>Right arrows</td>
-            <td>§gs</td>
+            <td>§ra</td>
             <td>Makes right arrows which forms from 1 arrow to 3 arrows: < to << to <<<</td>
         </tr>
     </tbody>
