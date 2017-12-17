@@ -1,0 +1,19 @@
+---
+name: BetterRaw
+author:  Ad5001
+version: 1.0
+api: [3.0.0-ALPHA10]
+main: Ad5001\BetterRaw\Main
+commands: []
+permissions: 
+  betterraw.tellraw:
+    default: op
+  betterraw.sendpopup:
+    default: op
+  betterraw.sendtip:
+    default: op
+  betterraw.sendaction:
+    default: op
+  betterraw.sendtitle:
+    default: op
+...

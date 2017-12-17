@@ -1,0 +1,10 @@
+# Welcome to BetterRaw's config
+
+# Should the signs changing colors & features be activated?
+# Note: this can add lag to your server
+# Possible values: true, false
+signs_activated: true
+
+# Signs changing speed in second
+# Possible values: integers (1, 2, ...), floats (1.3, 0.132, 5.1)
+signs_change_speed: 0.2
